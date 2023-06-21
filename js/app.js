@@ -1,5 +1,5 @@
-var CHROME_HELPER_EXTENSION_ID = "fhejmeojlbhfhjndnkkleooeejklmigi"; // Chrome
-var EDGE_HELPER_EXTENSION_ID = "okkjnfohglnomdbpimkcdkiojbeiedof"; // Edge
+var CHROME_HELPER_EXTENSION_ID = "ojopdjdmelldaaegkdkjnaolmfjodgml"; // Chrome
+var EDGE_HELPER_EXTENSION_ID = "ojopdjdmelldaaegkdkjnaolmfjodgml"; // Edge
 var extension_available = false;
 var region = 'us-east-1';
 var output_objects = [];
